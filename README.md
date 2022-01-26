@@ -1,9 +1,6 @@
 <p align="center">
     <br>
-    <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/css@0.0.1/css_256x256.png" alt="programming Languages Logo">
-    <br>
-    <br>
-    <img src="https://mopsfl.github.io/assets/mopsflAnimated.html" alt="programming gif">
+    <img src="https://mopsfl.github.io/assets/mopsflAnimated.svg" alt="programming gif">
     <br>
     <br>
 </p>
