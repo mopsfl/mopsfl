@@ -1,17 +1,23 @@
 ### Hey 👋
 ## Ich bins, mopsfl
+<hr>
+## Programmiersprachen, etc... die ich gut kann:
 
+> JavaScript/Node.js
+> HTML5/CSS
+> Lua/LuaU
 
-<!--
+## Programmiersprachen, etc... die ich etwas kann:
 
-Here are some ideas to get you started:
+> Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programmiersprachen, etc... die ich etwas kann:
+
+> Python
+
+## Programmiersprachen, etc... die ich können will und lerne:
+
+> C#
+> C++
+> TypeScript
+> PHP
