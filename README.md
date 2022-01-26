@@ -1,6 +1,6 @@
 <p align="center">
     <br>
-    <img src="https://mopsfl.github.io/assets/mopsflAnimated.svg" alt="mopsfl">
+    <h1>mopsfl</h1>
     <br>
     <br>
 </p>
