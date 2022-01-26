@@ -11,10 +11,6 @@
 
 > Python
 
-## Programmiersprachen, etc... die ich etwas kann:
-
-> Python
-
 ## Programmiersprachen, etc... die ich können will und lerne:
 
 > C#
