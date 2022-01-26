@@ -9,11 +9,11 @@
 
 ### Programmiersprachen, etc... die ich etwas kann:
 
-> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.svg" height="20"> Python
+> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.svg" height="20"> Python<br>
 
 ### Programmiersprachen, etc... die ich können will und lerne:
 
-> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.svg" height="20"> C#
-> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.svg" height="20"> C++
-> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.svg" height="20"> TypeScript
-> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.svg" height="20"> PHP
+> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.svg" height="20"> C#<br>
+> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.svg" height="20"> C++<br>
+> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.svg" height="20"> TypeScript<br>
+> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.svg" height="20"> PHP<br>
