@@ -1,6 +1,6 @@
 ### Hey 👋
 ## Ich bins, mopsfl
-<hr>
+
 ## Programmiersprachen, etc... die ich gut kann:
 
 > JavaScript/Node.js
