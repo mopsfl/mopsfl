@@ -1,4 +1,4 @@
-<img height="100px" width="100px" src="https://img.shields.io/badge/mopsfl-%230078D6.svg?&style=for-the-badge&logo=code&logoColor=green"></img>
+<img height="100px" width="250px" src="https://img.shields.io/badge/mopsfl-%230078D6.svg?&style=for-the-badge&logo=code&logoColor=green"></img>
 
 <hr>
 
