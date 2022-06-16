@@ -1,4 +1,4 @@
-[![mopsfl](https://img.shields.io/badge/mopsfl-%230078D6.svg?&style=for-the-badge&logo=code&logoColor=green)](https://github.com/mopsfl)
+<img src="https://img.shields.io/badge/mopsfl-%230078D6.svg?&style=for-the-badge&logo=code&logoColor=green"></img>
 
 <hr>
 
