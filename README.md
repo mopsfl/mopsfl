@@ -11,5 +11,5 @@
 
 ## Equipment
 
-#### Operating System:
 [![WINDOWS10](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/mopsfl)
+[![NVIDIA](https://img.shields.io/badge/RTX-2060-green?style=for-the-badge&logo=nvidia)](https://github.com/mopsfl)
