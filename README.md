@@ -8,9 +8,3 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/mopsfl?tab=repositories&language=css)</br>
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/mopsfl)</br>
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/mopsfl?tab=repositories&language=javascript)</br>
-
-## Equipment
-
-[![WINDOWS10](https://img.shields.io/badge/windows-PRO-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/mopsfl)</br>
-[![NVIDIA](https://img.shields.io/badge/RTX-2060-76B900?style=for-the-badge&logo=nvidia)](https://github.com/mopsfl)</br>
-<!--[![AMD](https://img.shields.io/badge/AMD-Ryzen%E2%84%A2%205%205600X-ED1C24?&style=for-the-badge&logo=amd)](https://github.com/mopsfl)</br>-->
