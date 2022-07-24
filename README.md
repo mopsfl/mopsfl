@@ -1,6 +1,6 @@
 # mopsfl
 
-Hi, ich bin Flo, <br>16</br> Jahre alt. Ich programmiere gerne Web Applications im Front und Backend Bereich, bin aber auch sehr interessiert in Spieleprogrammierung. (Horror, Simulator)<br>
+Hi, ich bin Flo, 16 Jahre alt. Ich programmiere gerne Web Applications im Front und Backend Bereich, bin aber auch sehr interessiert in Spieleprogrammierung. (Horror, Simulator)<br>
 Einer meiner größten Träume ist es, irgendwann ein erfolgreiches Spiel auf den Markt zu bringen.<br>
 Zocken tu ich auch gerne. Meist spiele ich Shooter, Horror oder lustige Multiplayer Spiele.<br>
 
