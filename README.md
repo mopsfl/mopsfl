@@ -1,9 +1,10 @@
 # mopsfl
 
-Hi, ich bin Flo, <cdr>16</cdr> Jahre Alt. Ich programmiere gerne Web Applications, bin aber auch sehr interessiert im Bereich Spielprogrammierung.
-Mein größter Traum ist es irgendwann ein erfolgreiches Spiel auf den Markt zu bringen.
-Zocken tu ich auch gerne. Meist spiele ich Shooter, Horror Spiele oder lustige Multiplayer.
+Hi, ich bin Flo, <kbd>16</kbd> Jahre Alt. Ich programmiere gerne Web Applications im Front und Backend Bereich, bin aber auch sehr interessiert in Spieleprogrammierung. (Horror, Simulator)<br>
+Einer meiner größten Träume ist es, irgendwann ein erfolgreiches Spiel auf den Markt zu bringen.<br>
+Zocken tu ich auch gerne. Meist spiele ich Shooter, Horror Spiele oder lustige Multiplayer.<br>
 
+____________
 
 ## Skills
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mopsfl?tab=repositories&language=html)</br>
