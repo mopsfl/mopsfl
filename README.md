@@ -14,8 +14,8 @@ I also like to play. I mostly play shooters, horror or fun multiplayer games.<br
 ____________
 
 ## Skills
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mopsfl?tab=repositories&language=html)</br>
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/mopsfl?tab=repositories&language=css)</br>
-[![CSHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/mopsfl)</br>
-[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/mopsfl?tab=repositories&language=javascript)</br>
-[![LUA](https://img.shields.io/badge/LUA-00008b?style=for-the-badge&logo=lua&logoColor=ffffff)](https://github.com/mopsfl?tab=repositories&language=lua)</br>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mopsfl?tab=repositories&language=html)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/mopsfl?tab=repositories&language=css)
+[![CSHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/mopsfl)
+[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/mopsfl?tab=repositories&language=javascript)
+[![LUA](https://img.shields.io/badge/LUA-00008b?style=for-the-badge&logo=lua&logoColor=ffffff)](https://github.com/mopsfl?tab=repositories&language=lua)
