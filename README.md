@@ -1,5 +1,5 @@
-https://komarev.com/ghpvc/?username=mopsfl&style=for-the-badge
 
+[![DISCORD](https://komarev.com/ghpvc/?username=mopsfl&style=for-the-badge)](https://github.com/mopsfl)
 # mopsfl
 
 Hi, ich bin Flo, 16 Jahre alt. Ich programmiere gerne Web Applications im Front und Backend Bereich, bin aber auch sehr interessiert in Spieleentwicklung.<br><br>
