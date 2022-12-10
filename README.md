@@ -2,17 +2,6 @@
 [![DISCORD](https://komarev.com/ghpvc/?username=mopsfl&style=for-the-badge)](https://github.com/mopsfl)
 # mopsfl
 
-Hi, ich bin Flo, 16 Jahre alt. Ich programmiere gerne Web Applications im Front und Backend Bereich, bin aber auch sehr interessiert in Spieleentwicklung.<br><br>
-Einer meiner größten Träume ist es, irgendwann ein erfolgreiches Spiel auf den Markt zu bringen.<br><br>
-Zocken tu ich auch gerne. Meist spiele ich Shooter, Horror, lustige Multiplayer Spiele oder Rollenspiele (GTA, ...).<br><br>
-
-<details>
-<summary>English</summary>
-Hi, I'm Flo, 16 years old. I like to program web applications in the front and backend area, but I am also very interested in game development.<br><br>
-One of my biggest dreams is to one day launch a successful game.<br><br>
-I also like to play. I mostly play shooters, horror, fun multiplayer games or roleplay (GTA, ...).<br><br>
-</details>
-
 ____________
 
 ## Contact
