@@ -5,7 +5,7 @@
 ____________
 
 ## Contact
-[![DISCORD](https://img.shields.io/badge/mopsfl%234864-738ADB?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/679674584714444802)
+[![DISCORD](https://img.shields.io/badge/mopsfl%234864-738ADB?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/833315351718658068)
 
 ## I do
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mopsfl?tab=repositories&language=html)
