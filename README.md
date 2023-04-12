@@ -2,8 +2,6 @@
 [![DISCORD](https://komarev.com/ghpvc/?username=mopsfl&style=for-the-badge)](https://github.com/mopsfl)
 # mopsfl
 
-____________
-
 ## Contact
 [![DISCORD](https://img.shields.io/badge/mopsfl%234588-738ADB?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/833315351718658068)
 
