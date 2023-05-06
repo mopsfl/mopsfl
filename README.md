@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/1091791522116149419)](https://discord.com/users/1091791522116149419)
+
 
 [![DISCORD](https://komarev.com/ghpvc/?username=mopsfl&style=for-the-badge)](https://github.com/mopsfl)
 # mopsfl
