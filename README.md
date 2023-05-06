@@ -1,11 +1,9 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1091791522116149419)](https://discord.com/users/1091791522116149419)
 
 
-[![DISCORD](https://komarev.com/ghpvc/?username=mopsfl&style=for-the-badge)](https://github.com/mopsfl)
-# mopsfl
+[![PROFILEVIEWS](https://komarev.com/ghpvc/?username=mopsfl&style=for-the-badge)](https://github.com/mopsfl)
 
-## Contact
-[![DISCORD](https://img.shields.io/badge/mopsfl%234588-738ADB?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/833315351718658068)
+
 
 ## I do
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mopsfl?tab=repositories&language=html)
