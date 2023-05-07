@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mopsfl/mopsfl.github.io/main/static/img/mopsflogotext.png" width="100px" alt="mopsfl Logo"></img>
+  
+  <p>👋 Welcome to my profile!</p>
+  <h1></h1>
+</div>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1091791522116149419)](https://discord.com/users/1091791522116149419)
 
 ## My Skills
