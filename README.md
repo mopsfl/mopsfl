@@ -13,7 +13,6 @@
 ## Github Stats
 
 [![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=mopsfl&theme=transparent)](https://github.com/mopsfl/)
-[![STREAK](https://github-readme-streak-stats.herokuapp.com?user=mopsfl&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![TOPLANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=mopsfl&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![PROFILEVIEWS](https://komarev.com/ghpvc/?username=mopsfl&style=flat-square)](https://github.com/mopsfl)
