@@ -19,5 +19,5 @@
 
 ## Current Active Projects
 
-[![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=luaobfuscator-bot&theme=transparent)](https://github.com/mopsfl)
-[![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=LuaObfuscator-Redesign&theme=transparent)](https://github.com/mopsfl)
+[![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=luaobfuscator-bot&theme=transparent)](https://github.com/mopsfl/luaobfuscator-bot)
+[![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=LuaObfuscator-Redesign&theme=transparent)](https://github.com/mopsfl/LuaObfuscator-Redesign)
