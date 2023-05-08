@@ -15,7 +15,7 @@
 
   <h2>My Skills</h2>
 
-  [![SKILLS](https://skillicons.dev/icons?i=js,html,css,nodejs,cs,lua,discord)](https://skillicons.dev)
+  [![SKILLS](https://skillicons.dev/icons?i=js,html,css,nodejs,cs,lua,discord)](https://github.com/mopsfl?tab=repositories)
 
 </div>
 
@@ -24,7 +24,7 @@
   <h2>Github Stats</h2>
 
   [![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=mopsfl&theme=transparent)](https://github.com/mopsfl/)
-  [![TOPLANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=mopsfl&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  [![TOPLANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=mopsfl&hide_progress=true&theme=transparent)](https://github.com/mopsfl?tab=repositories)
 
   [![PROFILEVIEWS](https://komarev.com/ghpvc/?username=mopsfl&style=flat-square)](https://github.com/mopsfl)
   
