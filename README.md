@@ -5,19 +5,36 @@
   <h1></h1>
 </div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1091791522116149419)](https://discord.com/users/1091791522116149419)
+<div align="center">
 
-## My Skills
-[![SKILLS](https://skillicons.dev/icons?i=js,html,css,nodejs,cs,lua,discord)](https://skillicons.dev)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1091791522116149419)](https://discord.com/users/1091791522116149419)
 
-## Github Stats
+</div>
 
-[![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=mopsfl&theme=transparent)](https://github.com/mopsfl/)
-[![TOPLANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=mopsfl&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
-[![PROFILEVIEWS](https://komarev.com/ghpvc/?username=mopsfl&style=flat-square)](https://github.com/mopsfl)
+  <h2>My Skills</h2>
 
-## Current Active Projects
+  [![SKILLS](https://skillicons.dev/icons?i=js,html,css,nodejs,cs,lua,discord)](https://skillicons.dev)
 
-[![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=luaobfuscator-bot&theme=transparent)](https://github.com/mopsfl/luaobfuscator-bot)
-[![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=LuaObfuscator-Redesign&theme=transparent)](https://github.com/mopsfl/LuaObfuscator-Redesign)
+</div>
+
+<div align="center">
+
+  <h2>Github Stats</h2>
+
+  [![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=mopsfl&theme=transparent)](https://github.com/mopsfl/)
+  [![TOPLANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=mopsfl&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![PROFILEVIEWS](https://komarev.com/ghpvc/?username=mopsfl&style=flat-square)](https://github.com/mopsfl)
+  
+</div>
+
+<div align="center">
+
+  <h2>Current Active Projects</h2>
+
+  [![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=luaobfuscator-bot&theme=transparent)](https://github.com/mopsfl/luaobfuscator-bot)
+  [![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=LuaObfuscator-Redesign&theme=transparent)](https://github.com/mopsfl/LuaObfuscator-Redesign)
+
+</div>
