@@ -42,5 +42,5 @@
 <div align="center">
 
   <h2>Other</h2>
-  <a href="https://discord.gg/Hd3xCR8k8f"><img src="https://raw.githubusercontent.com/mopsfl/mopsfl.github.io/main/static/img/mopsflbotsbanner.png" width="350px" alt="mopsfl Logo"></img></a>
+  <a href="https://discord.gg/Hd3xCR8k8f" target="_blank"><img src="https://raw.githubusercontent.com/mopsfl/mopsfl.github.io/main/static/img/mopsflbotsbanner.png" width="350px" alt="mopsfl Logo"></img></a>
 </div>
