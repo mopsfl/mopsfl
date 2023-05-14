@@ -42,5 +42,6 @@
 <div align="center">
 
   <h2>Other</h2>
-  <a href="https://discord.gg/Hd3xCR8k8f" target="_blank"><img src="https://raw.githubusercontent.com/mopsfl/mopsfl.github.io/main/static/img/mopsflbotsbanner.png" width="350px" alt="mopsfl Logo"></img></a>
+  
+  [![REP](http://invidget.switchblade.xyz/Hd3xCR8k8f)](https://discord.gg/Hd3xCR8k8f)
 </div>
