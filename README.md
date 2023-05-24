@@ -11,8 +11,6 @@
 
 </div>
 
-Discord Account got banned again because Discord Employees think that <a href="https://github.com/mopsfl/luaobfuscator-bot">luaobfuscator-bot</a> is selling, providing or advertising hacks or cracked accounts... 🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️
-
 <div align="center">
 
   <h2>My Skills</h2>
