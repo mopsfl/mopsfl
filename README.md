@@ -41,7 +41,5 @@
 
 <div align="center">
 
-  <h2>Other</h2>
-  
-  [![REP](http://invidget.switchblade.xyz/Hd3xCR8k8f)](https://discord.gg/Hd3xCR8k8f)
+  <h2>Other</h2>)
 </div>
