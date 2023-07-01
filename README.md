@@ -15,7 +15,7 @@
 
   <h2>My Skills</h2>
 
-  [![SKILLS](https://skillicons.dev/icons?i=js,html,css,nodejs,cs,lua,discord)](https://github.com/mopsfl?tab=repositories)
+  [![SKILLS](https://skillicons.dev/icons?i=js,ts,express,html,css,nodejs,cs,lua,discord)](https://github.com/mopsfl?tab=repositories)
 
 </div>
 
