@@ -34,7 +34,7 @@
 
   <h2>Current Active Projects</h2>
 
-  [![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=mopsflWeather&theme=transparent)](https://github.com/mopsfl/luaobfuscator-bot)
+  [![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=mopsflWeather&theme=transparent)](https://github.com/mopsfl/mopsflWeather)
 
 </div>
 
