@@ -34,6 +34,7 @@
 
   <h2>Current Active Projects</h2>
 
+
   [![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=mopsflWeather&theme=transparent)](https://github.com/mopsfl/mopsflWeather)
 
 </div>
@@ -41,5 +42,6 @@
 <div align="center">
 
   <h2>Other</h2>
-  
+
+  [![REP](http://invidget.switchblade.xyz/Y556HXUByG)](https://discord.gg/Y556HXUByG)
 </div>
