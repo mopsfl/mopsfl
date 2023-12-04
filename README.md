@@ -41,7 +41,7 @@
 
   <h2>Current Active Projects</h2>
 
-  [![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=GoofyLuaUglifier&theme=transparent)](https://github.com/mopsfl/luaobfuscator-jsrework)
+  [![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=GoofyLuaUglifier&theme=transparent)](https://github.com/mopsfl/GoofyLuaUglifier)
 
 </div>
 
