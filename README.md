@@ -1,9 +1,19 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/mopsfl/mopsfl.github.io/main/static/img/mopsflogotext.png" width="100px" alt="mopsfl Logo"></img>
-  
   <p>👋 Welcome to my profile!</p>
-  <a href="https://mopsfl.github.io">My Website</a>
+  
+  <p>Someone who loves the universe and trains. 🙂</p>
+  
+  ```
+    “Two possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying.”
+
+  ― Arthur C. Clarke
+  ```
+  
+  <a href="https://mopsfl.github.io">My Website</a> • <a href="https://twitter.com/@mopsfl">Twitter</a> • <a href="https://instagram.com/mopsfl">Instagram</a> • <a href="https://youtube.com/@mopsfl">Youtube</a>
+  
   <h1></h1>
+
 </div>
 
 <div align="center">
