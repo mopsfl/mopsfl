@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/mopsfl/mopsfl.github.io/main/static/img/mopsflogotext.png" width="100px" alt="mopsfl Logo"></img>
   <p>👋 Welcome to my profile!</p>
   
-  <p>Someone who loves the universe and trains. 🙂</p>
+  <p>Someone who loves the universe, trains and coding. 🙂</p>
   
   ```
     “Two possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying.”
