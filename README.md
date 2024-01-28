@@ -10,7 +10,7 @@
   ― Arthur C. Clarke
   ```
   
-  <a href="https://mopsfl.github.io">My Website</a> • <a href="https://twitter.com/@mopsfl">Twitter</a> • <a href="https://instagram.com/mopsfl">Instagram</a> • <a href="https://youtube.com/@mopsfl">Youtube</a>
+  <a href="https://mopsfl.de">My Website</a> • <a href="https://twitter.com/@mopsfl">Twitter</a> • <a href="https://instagram.com/mopsfl">Instagram</a> • <a href="https://youtube.com/@mopsfl">Youtube</a>
   
   <h1></h1>
 
