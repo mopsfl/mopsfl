@@ -53,6 +53,8 @@
 
   [![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=GoofyLuaUglifier&theme=transparent)](https://github.com/mopsfl/GoofyLuaUglifier)
 
+[![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=luaobfuscator-bot&theme=transparent)](https://github.com/mopsfl/luaobfuscator-bot)
+
 </div>
 
 <div align="center">
