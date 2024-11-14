@@ -11,6 +11,8 @@
   ```
   
   <a href="https://mopsfl.de">My Website</a> • <a href="https://twitter.com/@mopsfl">Twitter</a> • <a href="https://instagram.com/mopsfl">Instagram</a> • <a href="https://youtube.com/@mopsfl">Youtube</a>
+
+  [![PayPal](https://img.shields.io/badge/Donate%20me-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mopsfl)
   
   <h1></h1>
 
