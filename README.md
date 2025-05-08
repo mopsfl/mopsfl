@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://mopsfl.de/images/icons/icon-512x512.png" width="100px" alt="mopsfl Logo"></img>
   <p>👋 Welcome to my profile!</p>
-  
-  <p>Someone who loves the universe, trains and coding. 🙂</p>
+  <br>
   
   ```
     “Two possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying.”
