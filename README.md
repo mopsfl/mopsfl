@@ -9,7 +9,7 @@
   ― Arthur C. Clarke
   ```
   
-  <a href="https://mopsfl.de">My Website</a> • <a href="https://twitter.com/@mopsfl">Twitter</a> • <a href="https://instagram.com/mopsfl">Instagram</a> • <a href="https://youtube.com/@mopsfl">Youtube</a>
+  <a href="https://mopsfl.de">Website</a> • <a href="https://twitter.com/@mopsfl">Twitter</a> • <a href="https://instagram.com/mopsfl">Instagram</a> • <a href="https://youtube.com/@mopsfl">Youtube</a>
   
   <h1></h1>
 
@@ -51,8 +51,7 @@
   <h2>Current Active Projects</h2>
 
   [![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=GoofyLuaUglifier&theme=transparent)](https://github.com/mopsfl/GoofyLuaUglifier)
-
-[![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=luaobfuscator-bot&theme=transparent)](https://github.com/mopsfl/luaobfuscator-bot)
+  [![REP](https://github-readme-stats.vercel.app/api/pin/?username=mopsfl&repo=luaobfuscator-bot&theme=transparent)](https://github.com/mopsfl/luaobfuscator-bot)
 
 </div>
 
